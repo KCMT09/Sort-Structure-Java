@@ -1,4 +1,4 @@
-package gmit;
+package bubblePackage;
 
 public class BubbleSort implements Sortable{
 	public Word[] sort(Word[] words){
